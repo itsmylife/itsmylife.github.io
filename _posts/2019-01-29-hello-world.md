@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
+permalink: /hello-world/
 date:   2019-01-29 15:11:29 +0100
 ---
 
